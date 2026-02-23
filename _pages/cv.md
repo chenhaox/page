@@ -18,15 +18,3 @@ Education
 Work experience
 ======
 * Present: Associate Professor at the College of Computer and Information Sciences, Fujian Agriculture and Forestry University.
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
