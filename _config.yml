@@ -41,7 +41,6 @@ author:
   orcid            : "https://orcid.org/0000-0003-1017-7136"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +56,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
